@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sean Hill"
   avatar           : "headshot_cv.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "BEng Engineering Mathematics and MSc Data Science graduate looking for data science oppurtunities."
   location         : "London, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/sean-h-28aa91117/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
