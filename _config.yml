@@ -11,9 +11,9 @@ title                    : "Sean Hill"
 title_separator          : "-"
 name                     : &name "Sean Hill"
 description              : &description "personal description"
-url                      : https://seanhill.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sean-p-hill.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sean-p-hill/seanhill.github.io"
+repository               : "sean-p-hill/sean-p-hill.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
